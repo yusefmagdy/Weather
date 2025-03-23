@@ -1,0 +1,45 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  justify-content: space-between;
+  padding: 40px;
+  margin-top: 10px; 
+ 
+  flex-wrap: wrap;
+  border-radius: .5rem;
+
+
+}
+.weathericon, .search {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    flex-wrap: wrap;
+
+}
+.currentLocaionText{
+    font-weight: bold;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+
+
+}
+.weatherText{
+
+    font-weight: bold;
+    font-size: 20px;
+
+}
+.location{
+    color: white;
+    background-color: #4B5550;
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    width: 10rem ;
+    border-radius: 6px;
+    flex-flow: row wrap;
+    padding: auto;
+}

@@ -1,0 +1,13 @@
+.WeatherMain{
+
+    display: flex;
+    padding: 30px;
+    gap: 20px;
+  
+}
+
+.FirstWeather{
+flex: 1;
+margin-right: 20ox;
+background-color: aqua;
+}

@@ -1,0 +1,42 @@
+.input-title{
+    font-size: 20px;
+
+}
+.parentDiv{
+    
+    background-color: #4B5563;
+    border-radius: .5rem;
+    color: white;
+    padding: 30px;
+    margin-right: 5%;
+    flex-direction: column;
+}
+    
+  
+
+.display-temp{
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    font-size: 35px;
+}
+.description-c{
+    font-weight: 50;
+    font-size: 15px;
+    margin-top: 8px;
+}
+.calender{
+ margin-top: 1rem;
+
+}
+.time-display{
+    display: flex;
+    align-items: center;
+}
+.location-city{
+    display: flex;
+    align-items: center;
+    margin-top: .3rem;
+
+
+}
